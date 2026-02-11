@@ -1,4 +1,4 @@
-# Cricket_Analyzer
+# Cricket Analyzer
 ![Trajactory](https://github.com/user-attachments/assets/fbec3350-e785-4c8d-9b05-9be6d7b32365)
 
 
