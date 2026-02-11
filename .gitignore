@@ -1,11 +1,5 @@
-# Ignore the massive full training data (images and labels)
-# This prevents the 18GB dataset from being tracked
-Training/Data/images/
-Training/Data/labels/
-
-# Keep the code and model files
-!Testing/Inference_Cloud_Model/best3.pt
-!Testing/Inference_Cloud_Model/*.py
-
-# Optional: If your 1.9GB is still too large, 
-# you can ignore specific large videos by name
+# Remove the lines blocking Training and Data
+# Just keep basic ignores
+__pycache__/
+*.pyc
+.DS_Store
