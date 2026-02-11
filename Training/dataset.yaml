@@ -1,0 +1,6 @@
+path: ./Data 
+train: images/train
+val: images/val
+
+nc: 3
+names: ['cricket_ball', 'wicket', 'crease']

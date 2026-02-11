@@ -1,0 +1,11 @@
+# Ignore the massive training datasets (thousands of images/labels)
+Training/Data/images/
+Training/Data/labels/
+
+# Ignore the heavy testing videos
+Testing/TESTING_Data/*.mp4
+Testing/TESTING_Data/*.MP4
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
