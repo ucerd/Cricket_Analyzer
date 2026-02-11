@@ -1,11 +1,11 @@
-# Ignore the massive training datasets (thousands of images/labels)
+# Ignore the massive full training data (images and labels)
+# This prevents the 18GB dataset from being tracked
 Training/Data/images/
 Training/Data/labels/
 
-# Ignore the heavy testing videos
-Testing/TESTING_Data/*.mp4
-Testing/TESTING_Data/*.MP4
+# Keep the code and model files
+!Testing/Inference_Cloud_Model/best3.pt
+!Testing/Inference_Cloud_Model/*.py
 
-# Ignore OS files
-.DS_Store
-Thumbs.db
+# Optional: If your 1.9GB is still too large, 
+# you can ignore specific large videos by name
