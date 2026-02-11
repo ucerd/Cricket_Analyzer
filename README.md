@@ -26,8 +26,7 @@ This GitHub repository contains:
 
 The **full dataset (~18–20 GB)** used for the complete study is archived on **Zenodo** for long-term preservation and reproducibility.
 
-✅ **Full Dataset DOI (Zenodo):** https://doi.org/XXXXXXXX/zenodo.XXXXXXX  
-*(Replace with your actual DOI link)*
+✅ **Full Dataset DOI (Zenodo):** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18607407.svg)](https://doi.org/10.5281/zenodo.18607407)
 
 ### What’s included in the full Zenodo archive (recommended for reviewers)
 - Raw videos / curated frames used in the paper
