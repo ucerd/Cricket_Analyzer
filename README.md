@@ -1,4 +1,6 @@
 # Cricket_Analyzer
+![Trajactory](https://github.com/user-attachments/assets/fbec3350-e785-4c8d-9b05-9be6d7b32365)
+
 
 Open-source repository for **Cricket_Analyzer** — vision-based cricket ball detection, trajectory tracking, and **ball speed estimation** (Streamlit app + YOLO).
 
